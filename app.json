@@ -1,0 +1,19 @@
+{
+  "addons": [
+    "heroku-postgresql"
+  ],
+  "buildpacks": [
+
+  ],
+  "env": {
+    "3ec4d981-46b6-4356-acd1-cb0916d4a34c": {
+      "required": true
+    }
+  },
+  "formation": {
+  },
+  "name": "display",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
